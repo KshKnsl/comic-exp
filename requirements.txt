@@ -1,0 +1,12 @@
+transformers
+torch
+diffusers
+accelerate
+sentencepiece
+spacy
+pillow
+gradio
+langdetect
+tiktoken
+protobuf
+pytest>=9.0.2
